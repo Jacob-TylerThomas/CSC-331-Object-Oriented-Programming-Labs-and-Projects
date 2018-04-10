@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=ID\ name
+comment0.target=Patron(java.lang.String,\ java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment3.params=
+comment3.target=java.lang.String\ getID()
+comment4.params=ID
+comment4.target=boolean\ hasID(java.lang.String)
+comment5.params=bookId
+comment5.target=void\ borrowBooks(Book)
+numComments=6

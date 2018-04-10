@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=a\ b
+comment0.target=Fraction(int,\ int)
+comment1.params=b
+comment1.target=Fraction(double)
+comment2.params=
+comment2.target=double\ toDecimal()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment4.params=numerator\ denominator
+comment4.target=int\ gcd(int,\ int)
+comment5.params=a
+comment5.target=Fraction\ add(Fraction)
+comment6.params=a
+comment6.target=Fraction\ mult(Fraction)
+comment7.params=a
+comment7.target=Fraction\ sub(Fraction)
+comment8.params=a
+comment8.target=Fraction\ div(Fraction)
+comment9.params=a
+comment9.target=int\ compareTo(Fraction)
+numComments=10
